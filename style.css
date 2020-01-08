@@ -1,0 +1,59 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: lightblue;
+    text-align:
+}
+
+h1 {
+    color: mediumpurple;
+}
+
+h3 {
+    color: pink;
+    font-size: 40px;
+    font-style: italic;
+}
+
+
+p {
+    color: blueviolet
+}
+
+li {
+color: red;
+list-style:
+}
+
+#paragraph1 {
+    color: 
+}
+
+#paragraph2 {
+    color: 
+}
+
+#paragraph3 {
+    color: 
+}
+
+.square {
+    height: 250px;
+    width: 250px;
+    border-radius: 15px;
+    background: yellow;
+    border: dotted lightseagreen 5px;
+    margin: 0 auto;
+    padding: 10px;
+    color: orange;
+}
+
+#cool-square {
+background: mediumpurple;
+}
+
+#uncool-square {
+background: mediumvioletred;
+}
