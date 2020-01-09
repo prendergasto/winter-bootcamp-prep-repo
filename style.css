@@ -12,7 +12,7 @@ h1 {
 }
 
 h3 {
-    color: pink;
+    color: brown;
     font-size: 40px;
     font-style: italic;
 }
@@ -36,7 +36,7 @@ list-style:
 }
 
 #paragraph3 {
-    color: 
+    color: blue;
 }
 
 .square {
@@ -48,6 +48,13 @@ list-style:
     margin: 0 auto;
     padding: 10px;
     color: orange;
+    transition: all .2s ease-in-out;
+}
+
+.square:hover {
+    width: 300px;
+    height: 300px;
+    cursor: pointer;
 }
 
 #cool-square {
